@@ -1,5 +1,5 @@
 # stlink_v2_RST_SWO_mod 
-=
+
 Description of adding RST and SWO pins in Chinese clone of stlink v2 for STM32
 
 This info is based on [Habr post](https://habr.com/ru/articles/402927/).
