@@ -9,6 +9,12 @@ This info is based on [Habr post](https://habr.com/ru/articles/402927/).
 Cut unused pins on the connector.
 Solder pins N18 (reset) and N31(SWO) to connectors pins through 22Ohm resistors.
 
+![Cut](cut.jpg)
+
+![Solder](solder1.JPG)
+
+![Solder](solder2.JPG)
+
 # How to check Reset
 
 Just use STM32 ST-LINK Utility and set "Connect under reset" in the "Mode" options.
